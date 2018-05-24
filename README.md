@@ -6,11 +6,11 @@
 
 ## About
 
-Create a website.
+Create a website to practice Bootstrap.
 
 ## Technology Used
 
-HTML, CSS, Floats, Divs, Spans
+HTML, CSS, Bootstrap
 
 ##installation
 Clone from https://github.com/Xamdes/week-in-review.git
