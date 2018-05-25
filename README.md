@@ -12,7 +12,7 @@ Create a website to practice Bootstrap.
 
 HTML, CSS, Bootstrap
 
-##installation
+## Installation
 Clone from https://github.com/Xamdes/week-in-review.git
 or https://github.com/BatesColin/Week-in-review.git
 
